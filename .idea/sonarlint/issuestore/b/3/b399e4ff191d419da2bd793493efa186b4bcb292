@@ -1,0 +1,32 @@
+
+b	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(ϋξΌπ8„μέ‹·1
+D
+java:S2189""Add an end condition to this loop.(οÿÿÿÿÿ8ηβ‹·1
+X
+java:S1854"6Remove this useless assignment to local variable "ch".(χήΛ―ψÿÿÿÿ8Θ£ί‹·1
+^
+java:S1854"ARemove this useless assignment to local variable "operatorStack".(θ¨”µ8μέ‹·1
+^
+java:S1854"<Remove this useless assignment to local variable "numStack".(ξΒ€΅ψÿÿÿÿ8μέ‹·1
+X
+java:S1854"6Remove this useless assignment to local variable "ch".(”‰ΧΕωÿÿÿÿ8Όώδ‹·1
+O
+java:S1481"-Remove this unused "numStack" local variable.(ξΒ€΅ψÿÿÿÿ8μέ‹·1
+O
+java:S1481"2Remove this unused "operatorStack" local variable.(θ¨”µ8μέ‹·1
+K
+java:S1481")Remove this unused "num1" local variable.(ΓΝό¨ϊÿÿÿÿ8μέ‹·1
+K
+java:S1481")Remove this unused "num2" local variable.(²ομÿύÿÿÿÿ8μέ‹·1
+O
+java:S1481"-Remove this unused "operator" local variable.(οÒΚψÿÿÿÿ8μέ‹·1
+E
+java:S1481"(Remove this unused "res" local variable.(ύΊλ8μέ‹·1
+I
+java:S1481"'Remove this unused "ch" local variable.(χήΛ―ψÿÿÿÿ8Λ£ί‹·1
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ω¨ή‚ψÿÿÿÿ8’μέ‹·1
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(»Μ•°8–μέ‹·1
+n
+java:S3457Y"Q%n should be used in place of \n to produce the platform-specific line separator.(η²σ8—μέ‹·1
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(η²σ8—μέ‹·1
+=	java:S131r""Add a default case to this switch.(ξ­™o8™μέ‹·1

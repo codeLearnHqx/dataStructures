@@ -1,0 +1,28 @@
+
+b	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(ÑëÊ8ÎÊ¶Ã©1
+c	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(ÑëÊ8ÏÊ¶Ã©1
+}
+java:S1192]"`Define a constant instead of duplicating this literal "é˜Ÿåˆ—ä¸ºç©ºï¼Œæ²¡æœ‰æ•°æ®~~~~" 3 times.(ÑëÊ8ÏÊ¶Ã©1
+Y
+java:S1854"7Remove this useless assignment to local variable "key".(šÎ¸şÿÿÿÿ8»ĞµÃ©1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Çë—•8¼ĞµÃ©1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×ì°Ãüÿÿÿÿ8ÂĞµÃ©1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(êÒ²ê8ÂĞµÃ©1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿĞ®äıÿÿÿÿ8ÂĞµÃ©1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ã€äûÿÿÿÿ8ÂĞµÃ©1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½­äî8ÂĞµÃ©1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÄŸŞ¼8ÃĞµÃ©1
+n
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(…¶¤î8›Ë¿Ã©1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(…¶¤î8ÄĞµÃ©1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ÄĞµÃ©1
+s
+java:S3457."Q%n should be used in place of \n to produce the platform-specific line separator.(ï¹ô—ùÿÿÿÿ8ûö¿Ã©1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ï¹ô—ùÿÿÿÿ8ÅĞµÃ©1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ÈĞµÃ©1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ĞÛ’Ë8äÊ¶Ã©1
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(¬ïğú8åÊ¶Ã©1
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(“âó 8æÊ¶Ã©1
+s
+java:S3457u"Q%n should be used in place of \n to produce the platform-specific line separator.(¼‰ïıÿÿÿÿ8æÊ¶Ã©1
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(¼‰ïıÿÿÿÿ8§°»Ã©1

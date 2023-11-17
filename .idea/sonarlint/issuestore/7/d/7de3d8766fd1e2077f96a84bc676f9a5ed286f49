@@ -1,0 +1,18 @@
+
+b	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(ûî¼ğ8ûåõÏ¶1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦î¶ÿùÿÿÿÿ8ŒæõÏ¶1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôæˆ¡ÿÿÿÿÿ8ŒæõÏ¶1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨ŠÉ´ıÿÿÿÿ8ŒæõÏ¶1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù…›¯ùÿÿÿÿ8ŒæõÏ¶1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ó˜ıÿÿÿÿ8ŒæõÏ¶1
+>	java:S131""Add a default case to this switch.(°Ó÷8æõÏ¶1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ãÒ‚»ÿÿÿÿÿ8æõÏ¶1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÈĞ»üÿÿÿÿ8æõÏ¶1
+O
+java:S1135)"2Complete the task associated to this TODO comment.(‡ñÅ¼8æõÏ¶1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(½Å“›ûÿÿÿÿ8æõÏ¶1
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ù¨Ş‚øÿÿÿÿ8’æõÏ¶1
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(»Ì•°8’æõÏ¶1
+n
+java:S3457m"Q%n should be used in place of \n to produce the platform-specific line separator.(ç²ó˜8’æõÏ¶1
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(ç²ó˜8œÌöÏ¶1
