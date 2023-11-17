@@ -11,10 +11,10 @@ public class BinarySearch {
 
 
     public static void main(String[] args) {
-        int[] a = {7, 13, 30, 30, 38, 44, 52};
+        int[] a = {7, 13, 30, 30, 30, 30, 38, 44, 52};
         //System.out.println(binarySearchAlternative(a, 7));
 
-        int result = binarySearchLeftmost1(a, 30);
+        int result = binarySearchRight1(a, 39);
         System.out.println(result);
 
     }
@@ -163,6 +163,47 @@ public class BinarySearch {
         }
         return candidate;
     }
+
+
+    /**
+     * 返回一个比 -1 更有用的值
+     * @param a
+     * @param target
+     * @return 返回 target的最靠左索引
+     */
+    public static int binarySearchLeftmost(int[] a, int target) {
+        int i = 0, j = a.length - 1;
+        while (i <= j) {
+            int m = (i + j) >>> 1;
+            if (target <= a[m]) {
+                j = m - 1;
+            } else {
+                i = m + 1;
+            }
+        }
+        return i;
+    }
+
+
+    /**
+     * 返回一个比 -1 更有用的值
+     * @param a
+     * @param target
+     * @return 返回 target的最靠右索引
+     */
+    public static int binarySearchRightmost(int[] a, int target) {
+        int i = 0, j = a.length -1;
+        while (i <= j) {
+            int m = (i + j) >>> 1;
+            if (target < a[m]) {
+                j = m - 1;
+            } else {
+                i  = m + 1;
+            }
+        }
+        return i - 1;
+    }
+
 
 
 }
