@@ -5,14 +5,13 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * @Description
  * @Create by hqx
  * @Date 2023/11/18 19:14
  */
-public class TestArray {
+public class TestDynamicArray {
 
     @Test
     public void testDynamicArray1() {
