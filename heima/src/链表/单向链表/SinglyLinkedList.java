@@ -172,6 +172,25 @@ public class SinglyLinkedList implements Iterable<Integer>{
         }
     }
 
+
+    /**
+     * 递归遍历
+     */
+    public void loop3() {
+        recursion(head);
+    }
+
+    /**
+     * 递归操作
+     * @param cur 当前节点
+     */
+    private void recursion(Node cur) { // 针对某个节点进行的操作
+        if (cur == null) return;
+        recursion(cur.next);
+        System.out.println(cur.value);
+    }
+
+
     /**
      * 使用迭代器遍历链表
      */

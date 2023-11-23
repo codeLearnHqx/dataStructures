@@ -120,4 +120,17 @@ public class SinglyLinkedListTest {
         singlyLinkedList.forEach(System.out::println);
     }
 
+    @Test
+    void test09() {
+        SinglyLinkedList singlyLinkedList = new SinglyLinkedList();
+
+        singlyLinkedList.addLast(1);
+        singlyLinkedList.addLast(2);
+        singlyLinkedList.addLast(3);
+        singlyLinkedList.addLast(4);
+
+        // 使用递归遍历
+        singlyLinkedList.loop3();
+    }
+
 }
